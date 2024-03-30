@@ -1,4 +1,4 @@
-# meta author: @anskeel
+# meta author:  @anskeel
 import random
 from asyncio import sleep
 import os
